@@ -1,0 +1,27 @@
+.student-profiles-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.student-profile {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+.student-profile img {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.student-profile h3 {
+    margin: 0;
+}
+
+.student-profile p {
+    margin: 5px 0;
+}
